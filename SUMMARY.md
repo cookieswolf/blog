@@ -14,6 +14,7 @@
     * [CentOS7下安装Nodejs](Linux/CentOS7下安装Nodejs.md)
     * [翻墙上网shadowsocks](Linux/翻墙上网shadowsocks.md)
     * [Ubuntu使用技巧](Linux/Ubuntu使用技巧.md)
+    * [ubuntu 18.04 LTS 安装搜狗输入法](Linux/ubuntu 18.04 LTS 安装搜狗输入法.md)
 * [区块链](区块链/README.md)
     * [Duktape使用简介](区块链/Duktape使用简介.md)
     * [MAC下搭建以太坊私有链](区块链/MAC下搭建以太坊私有链.md)
