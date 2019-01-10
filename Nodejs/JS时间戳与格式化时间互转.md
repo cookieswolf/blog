@@ -46,6 +46,21 @@ const dateFormat = function(dateStr, fmt) {
 }
 ```
 
+## 时间戳格式化成固定格式 YYYY-MM-DD hh:mm:ss
+
+```
+formatTimestamp(timestamp) {
+        let date = new Date(timestamp * 1000);//时间戳为10位需*1000，时间戳为13位的话不需乘1000
+        let Y = date.getFullYear() + '-';
+        let M = (date.getMonth()+1 < 10 ? '0'+(date.getMonth()+1) : date.getMonth()+1) + '-';
+        let D = date.getDate() + ' ';
+        let h = date.getHours() + ':';
+        let m = (date.getMinutes() < 10 ? '0'  + date.getMinutes() : date.getMinutes()) + ':';
+        let s = date.getSeconds() < 10 ? '0' + date.getSeconds() : date.getSeconds();
+        return Y+M+D+h+m+s;
+    }
+```
+
 ## 格式化时间转成时间戳
 
 ```

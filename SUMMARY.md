@@ -39,6 +39,7 @@
     * [VSCode下sftp设置](MAC/VSCode sftp设置.md)
     * [MySQL8.0.11修改root密码](MAC/MySQL8.0.11修改root密码.md)
     * [frp内网穿透](MAC/frp内网穿透.md)
+    * [Chrome保存整个网页为图片](MAC/Chrome保存整个网页为图片.md)
 * [其他](其他/README.md)
     * [Ubuntu下编译V8引擎](其他/Ubuntu下编译V8引擎.md)
 
