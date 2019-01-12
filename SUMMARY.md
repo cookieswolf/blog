@@ -15,6 +15,7 @@
     * [翻墙上网shadowsocks](Linux/翻墙上网shadowsocks.md)
     * [Ubuntu使用技巧](Linux/Ubuntu使用技巧.md)
     * [ubuntu 18.04 LTS 安装搜狗输入法](Linux/ubuntu 18.04 LTS 安装搜狗输入法.md)
+    * [Ubuntu主题设置](Linux/Ubuntu主题设置.md)
 * [区块链](区块链/README.md)
     * [Duktape使用简介](区块链/Duktape使用简介.md)
     * [MAC下搭建以太坊私有链](区块链/MAC下搭建以太坊私有链.md)
@@ -33,6 +34,7 @@
     * [ReactNative run-android问题](Nodejs/ReactNative run-android问题.md)
     * [构建Nodejs脚手架](Nodejs/构建Nodejs脚手架.md)
     * [JS中常见的设计模式](Nodejs/JS中常见的设计模式.md)
+    * [Apidoc修改成json请求传参](Nodejs/Apidoc修改成json请求传参.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)
