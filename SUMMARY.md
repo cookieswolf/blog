@@ -34,7 +34,9 @@
     * [ReactNative run-android问题](Nodejs/ReactNative run-android问题.md)
     * [构建Nodejs脚手架](Nodejs/构建Nodejs脚手架.md)
     * [JS中常见的设计模式](Nodejs/JS中常见的设计模式.md)
-    * [Apidoc修改成json请求传参](Nodejs/Apidoc修改成json请求传参.md)
+    * [Restful Api Document](Nodejs/Restful Api Document.md)
+    * [JS处理 Websocket 超时问题](Nodejs/JS处理 Websocket 超时问题.md)
+    * [WebSocket简单封装](Nodejs/WebSocket简单封装.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)
@@ -42,6 +44,8 @@
     * [MySQL8.0.11修改root密码](MAC/MySQL8.0.11修改root密码.md)
     * [frp内网穿透](MAC/frp内网穿透.md)
     * [Chrome保存整个网页为图片](MAC/Chrome保存整个网页为图片.md)
+    * [MAC快捷键](MAC/MAC快捷键.md)
+    * [编辑器推荐](MAC/编辑器推荐.md)
 * [其他](其他/README.md)
     * [Ubuntu下编译V8引擎](其他/Ubuntu下编译V8引擎.md)
 
