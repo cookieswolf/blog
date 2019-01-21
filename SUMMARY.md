@@ -37,6 +37,8 @@
     * [Restful Api Document](Nodejs/Restful Api Document.md)
     * [JS处理 Websocket 超时问题](Nodejs/JS处理 Websocket 超时问题.md)
     * [WebSocket简单封装](Nodejs/WebSocket简单封装.md)
+    * [Swagger2.0示例](Nodejs/Swagger2.0示例.md)
+    * [JSON Web Token](Nodejs/JSON Web Token.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)
