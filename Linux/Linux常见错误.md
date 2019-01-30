@@ -32,3 +32,19 @@ apt-get install libcurl4-openssl-dev
 ```
 apt-get install snmpd snmp snmp-mibs-downloader
 ```
+
+- Q4
+
+```
+Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
+```
+
+解决方案
+
+```
+sudo rm /var/cache/apt/archives/lock
+
+sudo rm /var/lib/dpkg/lock
+```
+
+- [ubuntu常见错误--Could not get lock /var/lib/dpkg/lock解决](https://www.jianshu.com/p/6e4f16cf6398)

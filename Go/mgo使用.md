@@ -45,4 +45,8 @@ if err := postModule.Pipe(selector).All(&m); err != nil {  // 用Post表为主�
 
 ## 参考文档
 
-- [一日一学_Go 语言 mgo（mongo 场景应用）](https://juejin.im/entry/58ef2399570c3500561c4b12)
+- [Go实战--golang中使用MongoDB(mgo)](https://blog.csdn.net/wangshubo1989/article/details/75105397)
+- [一日一学_Go 语言 mgo（mongo 场景应用）](https://www.jianshu.com/p/13b7f4630670)
+- [MongoDB（Golang）查询&修改](https://www.jianshu.com/p/b63e5cfa4ce5)
+- [Go与MongoDB](https://www.jianshu.com/p/a0620aa81a25)
+- [使用Golang和MongoDB构建 RESTful API](https://juejin.im/post/5b46bb0ce51d4519115ce914)
