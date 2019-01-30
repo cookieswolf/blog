@@ -45,6 +45,8 @@
 * [DB数据库]
     * [Mongodb使用笔记](DB数据库/Mongodb使用笔记.md)
     * [Mongodb配置文件详解](DB数据库/Mongodb配置文件详解.md)
+    * [Mongodb副本集搭建](DB数据库/Mongodb副本集搭建.md)
+    * [Mongodb分片集群搭建](DB数据库/Mongodb分片集群搭建.md)
 * [前端](前端/README.md)
     * [CDN加速](前端/CDN加速.md)
     * [常用框架](前端/常用框架.md)
