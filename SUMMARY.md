@@ -7,6 +7,7 @@
     * [Ubuntu下supervisor安装、配置和使用](Go/Ubuntu下supervisor安装、配置和使用.md)
     * [mgo使用](Go/mgo使用.md)
     * [Go语言知识细节](Go/Go语言知识细节.md)
+    * [构建高性能服务端程序](Go/构建高性能服务端程序.md)
 * [Linux](Linux/README.md)
     * [Linux系统命令](Linux/Linux系统命令.md)
     * [Linux常见错误](Linux/Linux常见错误.md)
