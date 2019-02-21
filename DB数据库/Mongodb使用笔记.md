@@ -33,6 +33,9 @@ mongoose.model("Test",mongoose.Schema({username:String}))
 - [MongoDB提升性能的18原则（开发设计阶段）](https://blog.fundebug.com/2018/09/19/18-principle-to-improve-mongodb-performance/)
 - [大数据量下的数据库查询与插入如何优化？ （整理）](https://yq.aliyun.com/articles/4286)
 - [MongoDB数据量大于2亿后遇到的问题 及原因分析](https://piaosanlang.gitbooks.io/mongodb/content/03day/shu-ju-liang-da-yu-dao-de-wen-ti.html)
+- [浅谈 MongoDB 性能优化](https://juejin.im/entry/5bd9001751882536aa526348)
+- [基于Go语言构建的万亿级流量大数据平台架构](https://www.jianshu.com/p/34c9b07d2726)
+- [Go常用开源框架](https://github.com/hackstoic/golang-open-source-projects#%E7%9B%AE%E5%BD%95)
 
 
 ## Mongodb配置副本集及分片
