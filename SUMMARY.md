@@ -20,6 +20,7 @@
     * [Ubuntu主题设置](Linux/Ubuntu主题设置.md)
     * [Git学习](Linux/Git学习.md)
     * [Docker使用](Linux/Docker使用.md)
+    * [DNS加速配置](Linux/DNS加速配置.md)
 * [区块链](区块链/README.md)
     * [Duktape使用简介](区块链/Duktape使用简介.md)
     * [MAC下搭建以太坊私有链](区块链/MAC下搭建以太坊私有链.md)
