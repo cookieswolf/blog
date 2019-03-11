@@ -74,7 +74,38 @@ let dateS = date.valueOf()
 console.log(dateS)  // 1470153600000
 ```
 
+## JS获取UTC时间戳
+
+```
+// 获取当前UTC时间
+const getUTCDate = ()=>{
+  let date = new Date()
+  let year = date.getUTCFullYear()
+  let month = date.getUTCMonth()
+  let day = date.getUTCDate()  // 返回the day of the month
+  let hours = date.getUTCHours()
+  let minutes = date.getUTCMinutes()
+  let seconds = date.getUTCSeconds()
+  let UTCDate = new Date(Date.UTC(year,month,day,hours,minutes,seconds))
+  return Math.floor(UTCDate.getTime()/1000)
+}
+
+// 获取今天凌晨的UTC时间
+const getZeroUTCDate = ()=>{
+    let date = new Date()
+    let year = date.getUTCFullYear()
+    let month = date.getUTCMonth()
+    let day = date.getUTCDate()  // 返回the day of the month
+    let hours = date.getUTCHours()
+    let minutes = date.getUTCMinutes()
+    let seconds = date.getUTCSeconds()
+    let UTCDate = new Date(Date.UTC(year,month,day,0,0,0))
+    return Math.floor(UTCDate.getTime()/1000)
+}
+```
+
 
 ## 参考文章
 
 - [JavaScript获取时间戳与时间戳转化](https://segmentfault.com/a/1190000006160703)
+- [如何获取UTC时间戳JavaScript？](https://codeday.me/bug/20170627/29413.html)

@@ -31,6 +31,9 @@
     * [(五)星云链-智能合约开发与部署](区块链/智能合约开发与部署.md)
     * [(六)星云链-Dapp前端开发](区块链/Dapp前端开发.md)
     * [DApp开发](区块链/DApp开发.md)
+    * [共识算法介绍](区块链/共识算法介绍.md)
+    * [区块链常见攻击方法](区块链/区块链常见攻击方法.md)
+    * [Solidity学习](区块链/Solidity学习.md)
 * [Nodejs]
     * [JS时间戳与格式化时间互转](Nodejs/JS时间戳与格式化时间互转.md)
     * [私有npm服务器搭建](Nodejs/私有npm服务器搭建.md)
@@ -46,6 +49,7 @@
     * [Swagger2.0示例](Nodejs/Swagger2.0示例.md)
     * [JSON Web Token](Nodejs/JSON Web Token.md)
     * [重写console.log](Nodejs/重写console.log.md)
+    * [Node.js 命令行程序开发教程](Nodejs/Node.js 命令行程序开发教程.md)
 * [DB数据库]
     * [Mongodb使用笔记](DB数据库/Mongodb使用笔记.md)
     * [Mongodb配置文件详解](DB数据库/Mongodb配置文件详解.md)
@@ -66,7 +70,10 @@
     * [Chrome保存整个网页为图片](MAC/Chrome保存整个网页为图片.md)
     * [MAC快捷键](MAC/MAC快捷键.md)
     * [编辑器推荐](MAC/编辑器推荐.md)
+    * [MAC软件收藏](MAC/MAC软件收藏.md)
 * [其他](其他/README.md)
     * [Ubuntu下编译V8引擎](其他/Ubuntu下编译V8引擎.md)
     * [如何删除GitHub中的所有提交历史记录？](其他/如何删除GitHub中的所有提交历史记录？.md)
+    * [虚拟机服务商](其他/虚拟机服务商.md)
+    * [微软表格统计](其他/微软表格统计.md)
 

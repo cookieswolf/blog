@@ -4,6 +4,8 @@
 
 - [区块链3.0：拥抱EOS](https://cloud.tencent.com/developer/article/1115221)
 - [EOS 智能合约开发 (十八) 从 EOS 数据分析 history_plugin 插件和 MongoDB 插件区别](https://dpos.club/topics/297)
+- [EOS 智能合约最佳安全开发指南](https://github.com/slowmist/eos-smart-contract-security-best-practices)
+- [在 EOS 区块链上开发我的第一个 dapp](https://bihu.com/article/1166771)
 
 
 ## 波场
