@@ -61,6 +61,7 @@
     * [CDN加速](前端/CDN加速.md)
     * [常用框架](前端/常用框架.md)
     * [响应式布局](前端/响应式布局.md)
+    * [细节知识点](前端/细节知识点.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)
