@@ -50,6 +50,7 @@
     * [JSON Web Token](Nodejs/JSON Web Token.md)
     * [重写console.log](Nodejs/重写console.log.md)
     * [Node.js 命令行程序开发教程](Nodejs/Node.js 命令行程序开发教程.md)
+    * [Node.js常用第三方库](Nodejs/Node.js常用第三方库.md)
 * [DB数据库]
     * [Mongodb使用笔记](DB数据库/Mongodb使用笔记.md)
     * [Mongodb配置文件详解](DB数据库/Mongodb配置文件详解.md)
