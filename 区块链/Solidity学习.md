@@ -8,3 +8,5 @@
  - [以太坊开发者资源工具集合](https://juejin.im/post/5b86ad4b51882527fe50866b)
  - [Truffle - 以太坊Solidity编程语言开发框架](http://truffle.tryblockchain.org/Truffle-CommandRefrence-%E5%91%BD%E4%BB%A4%E6%8C%87%E5%8D%97.html)
  - [Solidity入门系列](http://me.tryblockchain.org/Solidity%E4%B9%8B%E6%95%B4%E6%95%B0.html)
+ - [智能合约介绍](http://www.tryblockchain.org/Solidity-interface-%E6%8E%A5%E5%8F%A3.html)
+ - [solidity的interface](https://my.oschina.net/u/2601303/blog/1550469)
