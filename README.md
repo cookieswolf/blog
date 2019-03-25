@@ -8,4 +8,4 @@
 
 给赞支持！
 
-![](https://github.com/yuanjunliang/blog/blob/master/img/zanshang.jpeg?raw=true)
+![zanshang.jpeg](https://upload-images.jianshu.io/upload_images/266271-aff9837e758a4b15.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
