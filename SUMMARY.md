@@ -33,7 +33,6 @@
     * [DApp开发](区块链/DApp开发.md)
     * [共识算法介绍](区块链/共识算法介绍.md)
     * [区块链常见攻击方法](区块链/区块链常见攻击方法.md)
-    * [Solidity学习](区块链/Solidity学习.md)
 * [Nodejs]
     * [JS时间戳与格式化时间互转](Nodejs/JS时间戳与格式化时间互转.md)
     * [私有npm服务器搭建](Nodejs/私有npm服务器搭建.md)
@@ -77,6 +76,8 @@
 * [以太坊](以太坊/README.md)
     * [以太坊代币合约](以太坊/以太坊代币合约.md)
     * [以太坊开发工具](以太坊/以太坊开发工具.md)
+* [Solidity](Solidity/README.md)
+    * [Solidity学习](Solidity/Solidity学习.md)
 * [其他](其他/README.md)
     * [Ubuntu下编译V8引擎](其他/Ubuntu下编译V8引擎.md)
     * [如何删除GitHub中的所有提交历史记录？](其他/如何删除GitHub中的所有提交历史记录？.md)

@@ -3,7 +3,6 @@
 ## 零碎知识点
 
 - [谈谈Solidity中的构造方法](https://blog.csdn.net/wo541075754/article/details/81182909)
-- [solidity的interface](https://my.oschina.net/u/2601303/blog/1550469)
 
 ## 参考文档
 
