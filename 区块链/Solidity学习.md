@@ -1,5 +1,9 @@
 # Solidity学习
 
+## 零碎知识点
+
+- [谈谈Solidity中的构造方法](https://blog.csdn.net/wo541075754/article/details/81182909)
+
 ## 参考文档
 
  - [cryptozombies](https://cryptozombies.io/)
