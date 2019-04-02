@@ -63,6 +63,8 @@
     * [响应式布局](前端/响应式布局.md)
     * [细节知识点](前端/细节知识点.md)
     * [JS对域名测速](前端/JS对域名测速.md)
+    * [甘特图](前端/甘特图.md)
+    * [React声明周期](前端/React声明周期.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)

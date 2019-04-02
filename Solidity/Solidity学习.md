@@ -3,6 +3,7 @@
 ## 零碎知识点
 
 - [谈谈Solidity中的构造方法](https://blog.csdn.net/wo541075754/article/details/81182909)
+- [以太坊智能合约安全入门了解一下（上）](https://rickgray.me/2018/05/17/ethereum-smart-contracts-vulnerabilites-review/)
 
 ## 参考文档
 
