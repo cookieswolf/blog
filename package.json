@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanjunliang/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanjunliang/blog/issues"
+  },
+  "homepage": "https://github.com/yuanjunliang/blog#readme",
+  "devDependencies": {
+    "docz": "^1.0.0-rc.4",
+    "docz-theme-default": "^1.0.0-rc.4"
+  }
+}

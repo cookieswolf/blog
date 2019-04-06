@@ -80,9 +80,11 @@
     * [以太坊开发工具](以太坊/以太坊开发工具.md)
 * [Solidity](Solidity/README.md)
     * [Solidity学习](Solidity/Solidity学习.md)
+    * [Solidity知识点](Solidity/Solidity知识点.md)
 * [其他](其他/README.md)
     * [Ubuntu下编译V8引擎](其他/Ubuntu下编译V8引擎.md)
     * [如何删除GitHub中的所有提交历史记录？](其他/如何删除GitHub中的所有提交历史记录？.md)
     * [虚拟机服务商](其他/虚拟机服务商.md)
     * [微软表格统计](其他/微软表格统计.md)
+    * [自动化部署](其他/自动化部署.md)
 
