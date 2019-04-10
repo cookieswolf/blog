@@ -65,6 +65,7 @@
     * [JS对域名测速](前端/JS对域名测速.md)
     * [甘特图](前端/甘特图.md)
     * [React声明周期](前端/React声明周期.md)
+    * [JS文件处理](前端/JS文件处理.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)
