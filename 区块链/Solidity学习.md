@@ -16,3 +16,6 @@
  - [智能合约介绍](http://www.tryblockchain.org/Solidity-interface-%E6%8E%A5%E5%8F%A3.html)
  - [solidity的interface](https://my.oschina.net/u/2601303/blog/1550469)
  - [ethereum-dapp](https://github.com/topics/ethereum-dapp)
+ - [智能合约调试指南](https://zhuanlan.zhihu.com/p/35366945)
+ - [第十课 Solidity语言编辑器REMIX指导大全](https://cloud.tencent.com/developer/article/1182404)
+ - [以太坊开发实战（第 3 章：安全性、局限性及其他要点）](https://cloud.tencent.com/developer/article/1077296)

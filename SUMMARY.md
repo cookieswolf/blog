@@ -34,6 +34,7 @@
     * [共识算法介绍](区块链/共识算法介绍.md)
     * [区块链常见攻击方法](区块链/区块链常见攻击方法.md)
     * [IPFS](区块链/IPFS.md)
+    * [零知识证明](区块链/零知识证明.md)
 * [Nodejs]
     * [JS时间戳与格式化时间互转](Nodejs/JS时间戳与格式化时间互转.md)
     * [私有npm服务器搭建](Nodejs/私有npm服务器搭建.md)
@@ -67,6 +68,7 @@
     * [甘特图](前端/甘特图.md)
     * [React声明周期](前端/React声明周期.md)
     * [JS文件处理](前端/JS文件处理.md)
+    * [SEO优化](前端/SEO优化.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)

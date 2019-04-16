@@ -182,3 +182,8 @@ export default {
     downloadFile
 }
 ```
+
+
+## 参考文章
+
+- [ipfs-搭建一个去中心化分布式存储和共享文件平台](https://www.51it.wang/ll/694)
