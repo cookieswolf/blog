@@ -19,3 +19,9 @@
  - [智能合约调试指南](https://zhuanlan.zhihu.com/p/35366945)
  - [第十课 Solidity语言编辑器REMIX指导大全](https://cloud.tencent.com/developer/article/1182404)
  - [以太坊开发实战（第 3 章：安全性、局限性及其他要点）](https://cloud.tencent.com/developer/article/1077296)
+ - [如何：使用Node.js编译Solidity Smart Contract](https://medium.com/coinmonks/how-to-compile-a-solidity-smart-contract-using-node-js-51ea7c6bf440)
+ 
+
+ ## 资源列表
+
+ - [solc版本列表](https://ethereum.github.io/solc-bin/bin/list.json)
