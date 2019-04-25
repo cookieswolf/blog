@@ -16,3 +16,9 @@
  - [智能合约介绍](http://www.tryblockchain.org/Solidity-interface-%E6%8E%A5%E5%8F%A3.html)
  - [solidity的interface](https://my.oschina.net/u/2601303/blog/1550469)
  - [ethereum-dapp](https://github.com/topics/ethereum-dapp)
+ - [以太坊开发实战学习-solidity语法(二)](https://segmentfault.com/a/1190000015236489)
+
+
+  ## 资源列表
+
+ - [solc版本列表](https://ethereum.github.io/solc-bin/bin/list.json)
