@@ -12,6 +12,10 @@
 - [rimraf](https://www.npmjs.com/package/rimraf):约等于rm -rf命令，删除目录
 - [axios](https://github.com/axios/axios):基于Promise的HTTP请求库
 - [CircleCI](https://circleci.com/):自动化集成部署
+- [mathjs](https://github.com/josdejong/mathjs/):JS任意精度大数处理
+- [decimal.js](https://github.com/MikeMcl/decimal.js/):JS任意精度大数处理
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js/):JS大数处理
+
 
 ## 相关文章
 

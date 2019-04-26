@@ -55,6 +55,7 @@
     * [Node.js常用第三方库](Nodejs/Node.js常用第三方库.md)
     * [Node.js基础原理](Nodejs/Node.js基础原理.md)
     * [Node.js服务器上安装](Nodejs/Node.js服务器上安装.md)
+    * [JS精度和大数处理](Nodejs/JS精度和大数处理.md)
 * [DB数据库]
     * [Mongodb使用笔记](DB数据库/Mongodb使用笔记.md)
     * [Mongodb配置文件详解](DB数据库/Mongodb配置文件详解.md)
