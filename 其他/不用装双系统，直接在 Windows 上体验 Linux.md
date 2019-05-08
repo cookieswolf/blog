@@ -239,3 +239,7 @@
 
 
 原文地址:https://sspai.com/post/43813
+
+- [在Ubuntu 18.04上安装和配置TigerVNC服务器](https://www.cyberciti.biz/faq/install-and-configure-tigervnc-server-on-ubuntu-18-04/)
+- [【Ubuntu 18.04 搭建VNC服务器】](https://www.jianshu.com/p/f58fe5cdeb5f)
+- [在Ubuntu 18.04上安装和配置TigerVNC服务器](https://www.cyberciti.biz/faq/install-and-configure-tigervnc-server-on-ubuntu-18-04/)
