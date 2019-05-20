@@ -1311,4 +1311,6 @@ JS 中则直接`chrome.i18n.getMessage("helloWorld")`。
 
 ## 参考文档
 
+- [什么是 Chrome 应用？](https://crxdoc-zh.appspot.com/apps/about_apps)
 - [【干货】Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
+- [5分钟学会开发浏览器扩展](https://www.jianshu.com/p/6e1bd2b63ab3)
