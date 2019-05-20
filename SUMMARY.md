@@ -78,6 +78,7 @@
     * [React声明周期](前端/React声明周期.md)
     * [JS文件处理](前端/JS文件处理.md)
     * [SEO优化](前端/SEO优化.md)
+    * [Chrome插件](前端/Chrome插件.md)
 * [MAC]
     * [Telegram代理配置](MAC/Telegram代理配置.md)
     * [Gitbook安装搭建](MAC/Gitbook安装搭建.md)
